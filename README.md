@@ -14,3 +14,5 @@ Pro Tip: For the shortest and easiest invocation say "Alexa, tell QuickAdd add [
 Disclaimer: Linking your Todoist account and purchasing the skill are required for operation. Account linking needs to happen in the browser and not in the native Todoist app. Some Android devices may automatically attempt to open the native Todoist app for account linking. If this occurs, please complete the linking process directly from a web browser instead, or copy the URL from the app and paste it into your browser's address bar.
 
 This skill is independently created and is not affiliated with or endorsed by Doist.
+
+https://buymeacoffee.com/erikjohnrichter
