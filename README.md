@@ -15,7 +15,10 @@ Disclaimer: Linking your Todoist account and purchasing the skill are required f
 
 This skill is independently created and is not affiliated with or endorsed by Doist.
 
-https://buymeacoffee.com/erikjohnrichter
+If you are enjoying QuickAdd, please consider:
+Reviewing it on Amazon - https://www.amazon.com/dp/B0D7948ZX5
+Or contributing to future enhancements - https://buymeacoffee.com/erikjohnrichter
+
 
 # How to use QuickAdd for Todoist
 
