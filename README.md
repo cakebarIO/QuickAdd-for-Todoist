@@ -26,10 +26,10 @@ Or contributing to future enhancements - https://buymeacoffee.com/erikjohnrichte
 
 **1) Invocations** - All invocations of QuickAdd need to start with "Alexa, [tell/ask] Quick Add to add..." You may say:
 
-"Alexa, tell QuickAdd to add [task]" - Adds [task] with a default due date of "today" to your Todoist Inbox.
-"Alexa, tell QuickAdd to add [task] no date" - Adds [task] with no due date to your Todoist Inbox.
-"Alexa, tell QuickAdd to add [task] [day of the week - OR - month/date]" - QuickAdd supports Todoist's natural language dates. This invocation overrides the default "today" due date when adding a [task] to your Todoist Inbox or Project.
-"Alexa, tell QuickAdd to add [task] to my [Todoist project name]" - Adds [task] with a default "today" due date to your custom Todoist Project. NOTE: The project name MUST contain no spaces (see below).
+- "Alexa, tell QuickAdd to add [task]" - Adds [task] with a default due date of "today" to your Todoist Inbox.
+- "Alexa, tell QuickAdd to add [task] no date" - Adds [task] with no due date to your Todoist Inbox.
+- "Alexa, tell QuickAdd to add [task] [day of the week - OR - month/date]" - QuickAdd supports Todoist's natural language dates. This invocation overrides the default "today" due date when adding a [task] to your Todoist Inbox or Project.
+- "Alexa, tell QuickAdd to add [task] to my [Todoist project name]" - Adds [task] with a default "today" due date to your custom Todoist Project. NOTE: The project name MUST contain no spaces (see below).
 
 Any of these endpoint commands may be combined or added to in your invocation requests.
 
