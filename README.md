@@ -24,6 +24,8 @@ Or contributing to future enhancements - https://buymeacoffee.com/erikjohnrichte
 
 # How to use QuickAdd for Todoist
 
+For a full, updated list of features and instructions, please visit - https://www.erikrichter.com/project/quickadd-for-todoist-alexa-skill
+
 **1) Invocations** - All invocations of QuickAdd need to start with "Alexa, [tell/ask] Quick Add to add..." You may say:
 
 - "Alexa, tell QuickAdd to add [task]" - Adds [task] with a default due date of "today" to your Todoist Inbox.
